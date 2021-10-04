@@ -1,0 +1,24 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Tangerine', serif;
+  font-size: 48px;
+  text-shadow: 4px 4px 4px #aaa;
+
+}
+#canvasDiv {
+  display: block;
+  overflow: hidden;
+  position: absolute;
+  top: 0;
+  right: 0;
+  z-index:-1;
+  height:bottom%;
+  width: 100%;
+  float: left;
+  margin-top: 45px;
+
+  
+  
+  
+}
